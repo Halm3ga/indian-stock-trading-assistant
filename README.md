@@ -69,3 +69,4 @@ Trading/
 - Data is cached locally to minimize API calls
 - Cache refreshes daily automatically
 - Free data source with slight delay for real-time quotes
+- Deployed app link: https://indian-stock-trading-assistant-kcmjicwr4bh9vm4cjbnnf8.streamlit.app/
